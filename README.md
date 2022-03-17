@@ -26,6 +26,5 @@ pip install pandas numpy install scikit-learn matplotlib seaborn
 #You can install the different packages by the conda environment
 
 
-
 #the first knn.py for the supervised
 #clustering.py for the unsupervised
