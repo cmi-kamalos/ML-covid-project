@@ -1,10 +1,10 @@
 # ML-covid-project
 
-The mini-project covers the application of the two algorithms (supervised and
+The mini-project covers the application of two algorithms (supervised and
 unsupervised) in the context of covid19. The use of one or
 the set of two datasets is optional. Note that the first is a
 csv file containing the observations on all the samples and the
-second contains chest scans
+second contains chest scans that can be found on github.
 
 #choice of Algorithms
 
