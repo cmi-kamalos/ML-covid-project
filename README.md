@@ -16,9 +16,9 @@ quantitative. Therefore, we have the symptoms present on the
 various observations to name but a few: cough,
 fever, shortness of breath. So why not predict patient outcome
 just from these symptoms.
-This now amounts to being interested only in those said quantitative attributes
-and the class corona-result which gives the positive or negative result from
-of this.
+This lead to only being interested in those said quantitative attributes
+and the corona-result class which gives the positive or negative result from
+those attributes.
 
 #1) To be able to execute this project, you need to install:
 pip install pandas numpy install scikit-learn matplotlib seaborn
